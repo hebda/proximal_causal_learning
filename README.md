@@ -1,7 +1,7 @@
 # negative_controls_simulations
 Collection of notebooks to simulate various DAGs and understand bias and variance properties of the negative controls estimator.
 
-These experiments are featured in <link to paper>, by <author list>.
+These experiments are featured in PAPER, by AUTHORS.
   
 The simulations build upon eachother in the following order:
 1. negative_controls_base_graph.ipynb
