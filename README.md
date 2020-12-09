@@ -1,5 +1,5 @@
-# negative_controls_simulations
-Collection of notebooks to simulate various DAGs and understand bias and variance properties of the negative controls estimator.
+# proximal_causal_learning
+Collection of notebooks to simulate various DAGs and understand bias and variance properties of the Proximal Causal Learning estimator.
 
 These experiments are featured in PAPER, by AUTHORS.
   
